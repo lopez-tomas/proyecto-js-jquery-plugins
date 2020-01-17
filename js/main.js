@@ -5,8 +5,6 @@ window.addEventListener("load", function(){
     
     $(document).ready(function(){
 
-        // "powermode.enabled": true;
-
         // Slider
         if(window.location.href.indexOf('index') > -1){
             $('.galeria').bxSlider({
